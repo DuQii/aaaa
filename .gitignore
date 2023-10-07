@@ -1,0 +1,12 @@
+# 忽略Python字节码文件
+*.pyc
+
+# 忽略IDE和编辑器生成的文件
+.pytest_cache
+
+
+.git
+
+__pycache__
+
+.github
